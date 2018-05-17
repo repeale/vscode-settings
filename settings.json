@@ -1,0 +1,37 @@
+{
+    "editor.glyphMargin": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": true,
+    "extensions.autoUpdate": true,
+    "window.zoomLevel": 0,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-seti",
+    "files.insertFinalNewline": true,
+    "editor.minimap.enabled": true,
+    "files.associations": {
+        "*.vue": "html"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/.vscode": true,
+        "**/node_modules": true
+    },
+    "window.nativeTabs": true,
+    "workbench.editor.swipeToNavigate": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "Hack, Menlo, Monaco, 'Courier New', monospace",
+    "editor.letterSpacing": 0.5
+}
